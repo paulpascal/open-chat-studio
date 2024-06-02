@@ -20,7 +20,7 @@ anyio==4.0.0
     # via httpcore
 asgiref==3.6.0
     # via django
-async-timeout==4.0.2
+async-timeout==4.0.3
     # via
     #   aiohttp
     #   redis
